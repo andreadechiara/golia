@@ -49,7 +49,7 @@
   
   "author": "Andrea De Chiara <andrea.dechiara@par-tec.it>",
   "gitDependencies": {
-    "private-package-name": "git@bitbucket.org:goliateam/par-tec.git",
-    "public-package-name": "https://andreadechiara@bitbucket.org/goliateam/par-tec.git"
+    "private-package-name": "https://github.com/andreadechiara/golia.git",
+    "public-package-name": "https://github.com/andreadechiara/golia.git"
   }
 }
