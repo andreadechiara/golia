@@ -49,7 +49,7 @@
   
   "author": "Andrea De Chiara <andrea.dechiara@par-tec.it>",
   "gitDependencies": {
-    "private-golia": "https://github.com/andreadechiara/golia.git",
-    "public-golia": "https://github.com/andreadechiara/golia.git"
+    "private-golia": "git://github.com/andreadechiara/golia.git",
+    "public-golia": "git://github.com/andreadechiara/golia.git"
   }
 }
