@@ -8,7 +8,8 @@
     "start": "ng serve",
     "test": "ng test",
     "pree2e": "webdriver-manager update --standalone false --gecko false",
-    "e2e": "protractor"
+    "e2e": "protractor",
+    "install": "golia-git install"
   },
   "private": true,
   "dependencies": {
@@ -47,8 +48,8 @@
   },
   
   "author": "Andrea De Chiara <andrea.dechiara@par-tec.it>",
-  "repository": {
-  "type": "git",
-  "url": "git+ssh://git@bitbucket.org:andreadechiara/golia.git"
+  "gitDependencies": {
+    "private-package-name": "git@bitbucket.org:goliateam/par-tec.git",
+    "public-package-name": "https://andreadechiara@bitbucket.org/goliateam/par-tec.git"
   }
 }
