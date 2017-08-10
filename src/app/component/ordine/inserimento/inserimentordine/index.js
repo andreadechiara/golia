@@ -1,0 +1,1 @@
+export { InserimentordineComponent } from './inserimentordine.component';
